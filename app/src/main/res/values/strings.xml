@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HW1</string>
+    <string name="send">Send</string>
+    <string name="EditName">請輸入您的姓名</string>
+    <string name="EditSex">請輸入您的性別</string>
+    <string name="EditSize">請輸入尺寸</string>
+    <string name="send2">Send</string>
+    <string name="EditColor">請輸入顏色</string>
+</resources>
